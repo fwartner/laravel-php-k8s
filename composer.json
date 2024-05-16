@@ -1,5 +1,5 @@
 {
-    "name": "renoki-co/laravel-php-k8s",
+    "name": "fwartner/laravel-php-k8s",
     "description": "Just a simple port of renoki-co/php-k8s for easier access in Laravel.",
     "keywords": [
         "laravel",
