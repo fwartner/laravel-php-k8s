@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "fwartner/php-k8s": "^3.7"
+        "fwartner/php-k8s": "dev-master"
     },
     "autoload": {
         "psr-4": {
